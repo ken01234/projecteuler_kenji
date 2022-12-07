@@ -1,3 +1,4 @@
+#I did it in python as I am not sure how to split strings in C++ and I knew how to do it in Python 
 power = 2**1000
 s1 =str(power) #the numbers into string
 sum=0
